@@ -13,9 +13,11 @@
 
 <!-- Tech Stack -->
 ### Tech Stack
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-D5D9C4?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-94B58B?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-B4D9A9?style=flat&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-C6EDC2?style=flat&logo=javascript&logoColor=black)
+![mySQL](https://img.shields.io/badge/-mySQL-EBF7F0?style=flat&logo=mySQL)
 
 <a href="https://github.com/doomangang">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=doomangang&theme=github&show_icons=true" />
