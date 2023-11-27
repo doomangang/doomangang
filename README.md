@@ -5,19 +5,18 @@
 
 
 ####  👩🏻‍🎨 정지현 🎞 </br>
-⛸ **Computer Science & Engineering** major in **Chungang University**, Seoul. </br> 
+📸 **Computer Science & Engineering** major in **Chungang University**, Seoul. </br> 
 ☕️ **Cadet** of **42Seoul**. </br>  
 
-<a target="_blank"><img src="https://img.shields.io/badge/seoul-black?style=for-the-badge&logo=42&logoColor=white&labelColor=black"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/jihyjeon-darkred?style=for-the-badge&logo=42&logoColor=white&labelColor=darkred"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/jihyjeon-darkred?style=plastic&logo=42&logoColor=white&labelColor=darkred"/></a>
 
 <!-- Tech Stack -->
 ### Tech Stack
-![C](https://img.shields.io/badge/-C-D5D9C4?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-94B58B?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-B4D9A9?style=flat&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-C6EDC2?style=flat&logo=javascript&logoColor=black)
-![mySQL](https://img.shields.io/badge/-mySQL-EBF7F0?style=flat&logo=mySQL)
+![C](https://img.shields.io/badge/-C-D5D9C4?style=plastic&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-94B58B?style=plastic&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-B4D9A9?style=plastic&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-C6EDC2?style=plastic&logo=javascript&logoColor=black)
+![mySQL](https://img.shields.io/badge/-mySQL-EBF7F0?style=plastic&logo=mySQL)
 
 <a href="https://github.com/doomangang">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=doomangang&theme=github&show_icons=true" />
