@@ -4,7 +4,7 @@
 
 
 
-####  👩🏻‍🎨 정지현 🎞 </br>
+####  👩🏻‍🎨 Jiehyun Jeong 🎞 </br>
 📸 **Computer Science & Engineering** major in **Chungang University**, Seoul. </br> 
 ☕️ **Cadet** of **42Seoul**. </br>  
 
