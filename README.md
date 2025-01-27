@@ -10,12 +10,15 @@
 
 <a target="_blank"><img src="https://img.shields.io/badge/jihyjeon-darkred?style=plastic&logo=42&logoColor=white&labelColor=darkred"/></a>
 
+#### ![Portfolio](https://www.jjhfolio.site)
+
 <!-- Tech Stack -->
 ### Tech Stack
 ![C](https://img.shields.io/badge/-C-D5D9C4?style=plastic&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-94B58B?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-B4D9A9?style=plastic&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-C6EDC2?style=plastic&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/-Typescript-C6EDC2?style=plastic&logo=typescript&logoColor=black)
 ![mySQL](https://img.shields.io/badge/-mySQL-EBF7F0?style=plastic&logo=mySQL)
 
 <a href="https://github.com/doomangang">
