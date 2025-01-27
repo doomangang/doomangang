@@ -10,7 +10,7 @@
 
 <a target="_blank"><img src="https://img.shields.io/badge/jihyjeon-darkred?style=plastic&logo=42&logoColor=white&labelColor=darkred"/></a>
 
-#### ![Portfolio](https://www.jjhfolio.site)
+#### [Little Portfolio has opened!](https://www.jjhfolio.site)
 
 <!-- Tech Stack -->
 ### Tech Stack
